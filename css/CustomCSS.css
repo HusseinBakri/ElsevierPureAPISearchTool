@@ -1,0 +1,17 @@
+body{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+
+#jj{
+  margin: 0;
+  padding: 0;
+}
+
+#info-container {
+     margin-top:10px;
+     position: fixed;
+}
+
+
