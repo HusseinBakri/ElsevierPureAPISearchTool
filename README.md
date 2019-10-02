@@ -10,7 +10,9 @@ The tool allows user to use an inclusion list of keywords to search, it lets the
 
 Now I developped this tool for a client (University of St Andrews) so I will not include any logic that is too specific but I will share here the classes of PHP that allows you to communicate with the backend via the API. You can use these classes directly in your code without any changes and you would forget about any PHP code and focus on the front end JS logic.
 
-I will also share a big part of the front end HTML and JS code.
+You can find several functions defined in functions.php which you can use to communicate with backend using the Rest API either via PHP cURL or using the Guzzle PHP HTTP client.
+
+I included also a big part of the front end HTML and JS code.
 
 ## Requirements
 A web server such as Apache
