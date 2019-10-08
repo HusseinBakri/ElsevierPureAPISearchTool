@@ -2,7 +2,7 @@
 A PHP7 &amp; JavaScript customisable client search tool communicating with the Elsevier PURE Rest API. 
 
 ## About
-Elsevier PURE API [https://dev.elsevier.com/](https://dev.elsevier.com/) is a very famous API used by many academic institutions in the UK and abroad. The PURE platform stores all research output such as academic papers, abstracts, books, posters etc in addition to the institution researchers' information.
+Elsevier PURE API ([https://dev.elsevier.com/](https://dev.elsevier.com/)) is a very famous API used by many academic institutions in the UK and abroad. The PURE platform stores all research output such as academic papers, abstracts, books, posters etc in addition to the institution researchers' information.
 
 This search tool uses PHP and JavaScript to communicate via a Rest API with the PURE platform. Search criteria can be customised using the  Apache Lucene query syntax.
 
